@@ -1,0 +1,60 @@
+# Copyright (C) 2010 RVVideos - RestoVisio's videos
+# This file is distributed under the same license as the RVVideos - RestoVisio's videos package.
+msgid ""
+msgstr ""
+"Project-Id-Version: RVVideos - RestoVisio's videos 1.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/rvvideos\n"
+"POT-Creation-Date: 2011-07-19 13:27:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Webmaster RestoVisio <webmaster@restovisio.com>\n"
+"Language-Team: FRENCH <LL@li.org>\n"
+
+#: html/admin-options.php:4
+msgid "Authorization failed!"
+msgstr "Autorisation refusée"
+
+#: html/admin-options.php:8
+msgid "RVVideos Plugin Options"
+msgstr "RVVideos Options du module complémentaire"
+
+#: html/admin-options.php:15
+msgid "Preserve aspect ratio (set width, height will be updated)"
+msgstr "Conserver le ratio (changez la largeur, la hauteur suivra)"
+
+#: html/admin-options.php:19
+msgid "Player Width (pixels)"
+msgstr "Largeur du lecteur (pixels)"
+
+#: html/admin-options.php:21 html/admin-options.php:26
+msgid "Minimum: %d, Maximum: %d, Default: %d"
+msgstr "Minimum: %d, Maximum: %d, Defaut: %d"
+
+#: html/admin-options.php:24
+msgid "Player Height (pixels)"
+msgstr "Hauteur du lecteur (pixels)"
+
+#: html/admin-options.php:29
+msgid "Save options"
+msgstr "Enregistrer les options"
+
+#. Plugin Name of the plugin/theme
+msgid "RVVideos - RestoVisio's videos"
+msgstr "RVVideos - Les vidéos de RestoVisio"
+
+#. #-#-#-#-#  plugin.pot (RVVideos - RestoVisio's videos 1.6)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (RVVideos - RestoVisio's videos 1.6)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.restovisio.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Converts RestoVisio URLs into Video embed codes"
+msgstr "Convertis les URLs RestoVisio en lecteurs vidéos embarqués"
+
+#. Author of the plugin/theme
+msgid "Axel"
+msgstr ""
